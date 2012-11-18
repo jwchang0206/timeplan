@@ -1,0 +1,13 @@
+{
+  "name": "timeplan",
+  "description": "simplest way to assign delayed tasks and repetitive tasks",
+  "version": "1.0.0",
+  "author": "InspiredJW <inspired.jw@gmail.com>",
+  "keywords": ["delayed", "repeat", "schedule", "timeplan"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InspiredJW/timeplan.git"
+  },
+  "main": "index",
+  "engines": { "node": ">= 0.2.0" }
+}
